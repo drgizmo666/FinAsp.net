@@ -1,0 +1,26 @@
+﻿@model Crossword.Models.Puzzle
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Puzzle</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PuzzleName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PuzzleName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PuzzleId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

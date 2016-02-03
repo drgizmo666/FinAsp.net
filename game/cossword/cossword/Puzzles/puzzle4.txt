@@ -1,0 +1,37 @@
+x|y|direction|number|word|clue
+0|0|across|1|shaw|leader of the Hellfire club
+9|0|across|7|ultimo|sometimes foe of Iron Man, found by mandarin
+0|1|across|11|mane|Kraven garb
+5|1|across|12|vik|Kilowog home planet Bolovax ___
+12|1|across|14|taa|Galactus home planet
+0|2|across|15|antagonist|5-down, in this year's Avengers movie
+12|2|across|17|orn|Member of princess Koriand'r's spaceship crew
+0|3|across|18|skip|Dietz of Marvel's X-Factor Annual #8
+8|3|across|19|kree|Not fans of the Skrull
+3|4|across|22|omni|___-man, father of Invincible
+8|4|across|23|aonshi|only female iron fist
+1|5|across|25|ion|Kyle Rayner, for awhile
+8|5|across|27|anarky|Lonnie Machin, teenage prodigy
+1|6|across|29|mrxavier|Professor X, before he taught at the college level
+12|6|across|33|eon|Offspring of Eternity, parent of Epoch and Era
+0|0|down|1|smash|Hulk org.
+1|0|down|2|hank|Beast, informally
+2|0|down|3|anti|The bad kind of monitor
+3|0|down|4|weaponx|Wolverine, Deadpool and Sabretooth, to name a few
+5|0|down|5|ivo|His robots are totes AMAZO
+7|0|down|6|ski|Mode of transport for The Black Racer
+9|0|down|7|ultron|the 11-across of this year’s Avengers movie
+12|0|down|8|ito|Earth-Two Mister America villain, erased in the collapse of the Multi-verse in Crisis on Infinite Earths
+13|0|down|9|marc|Backlash, to his friends
+14|0|down|10|oan|A citizen of Oa
+6|1|down|13|infinity|Marvel story involving Thanos and the Builders
+8|2|down|16|skaar|member of 1-down and the son of Hulk
+10|3|down|20|esak|New Genesis member, defected to Apokolips and killed by Orion
+11|3|down|21|ehr|childhood friend and future father of a reanimated Abin Sur
+12|4|down|24|ike|Marvel CEO Perlmutter, if you’re feeling chummy
+1|5|down|25|impossible|The Fantastic Four’s biggest fan? ___ Man
+2|5|down|26|oracle|Barbara Gorden knew this would be a clue
+13|5|down|28|young|Green Lantern Dan or Teen Titan Frankenstein… or Justice
+4|6|down|30|abe|well-hydrated Hellboy pal
+5|6|down|31|vath|Green Lantern selected during Rann-Thanagar War
+7|6|down|32|earths|there was a Crisis on an Infinite number of these
