@@ -54,6 +54,7 @@ namespace Crossword.Controllers
         {
             if (ModelState.IsValid)
             {
+                clue.Direction = DirectionList;
                 db.Clues.Add(clue);
                 db.SaveChanges();
                 return RedirectToAction("Index");
