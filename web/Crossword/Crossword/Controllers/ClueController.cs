@@ -38,6 +38,10 @@ namespace Crossword.Controllers
         // GET: /Clue/Create
         public ActionResult Create()
         {
+            List<SelectListItem> items = new List<SelectListItem>();
+            items.Add(new SelectListItem { Text = "Across", Value = "Across", Selected = true });
+            items.Add(new SelectListItem { Text = "Down", Value = "Down" });
+            ViewBag.DirectionList = items;
             return View();
         }
 
@@ -46,7 +50,7 @@ namespace Crossword.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include="ClueId,XCoord,YCoord,Direction,Number,Answer,AnswerClue")] Clue clue)
+        public ActionResult Create([Bind(Include = "ClueId,XCoord,YCoord,Direction,Number,Answer,AnswerClue")] Clue clue, string DirectionList)
         {
             if (ModelState.IsValid)
             {

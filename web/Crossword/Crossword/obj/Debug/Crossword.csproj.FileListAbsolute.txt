@@ -52,3 +52,4 @@ C:\Users\james\Documents\GitHub\FinAsp.net\web\Crossword\Crossword\bin\Microsoft
 C:\Users\james\Documents\GitHub\FinAsp.net\web\Crossword\Crossword\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\james\Documents\GitHub\FinAsp.net\web\Crossword\Crossword\obj\Debug\Crossword.dll
 C:\Users\james\Documents\GitHub\FinAsp.net\web\Crossword\Crossword\obj\Debug\Crossword.pdb
+C:\Users\james\Documents\GitHub\FinAsp.net\web\Crossword\Crossword\obj\Debug\Crossword.csprojResolveAssemblyReference.cache

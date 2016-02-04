@@ -35,7 +35,8 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Direction, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Direction)
+                @Html.DropDownList("DirectionList", string.Empty);
+                @*@Html.EditorFor(model => model.Direction)*@
                 @Html.ValidationMessageFor(model => model.Direction)
             </div>
         </div>
