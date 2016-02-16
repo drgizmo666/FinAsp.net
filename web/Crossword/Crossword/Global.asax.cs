@@ -14,7 +14,7 @@ namespace Crossword
     {
         protected void Application_Start()
         {
-            Database.SetInitializer(new DropCreateDatabaseAlways<CrosswordDBContext>());
+            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<CrosswordDBContext>());
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

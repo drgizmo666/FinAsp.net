@@ -26,5 +26,12 @@ namespace Crossword.Controllers
 
             return View();
         }
+
+        public ActionResult History()
+        {
+            ViewBag.Message = "Crossword History page.";
+
+            return View();
+        }
     }
 }
